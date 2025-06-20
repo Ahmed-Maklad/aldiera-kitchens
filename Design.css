@@ -320,3 +320,7 @@ footer a:hover i {
     font-size: 1rem;
   }
 }
+.hero-section * {
+  z-index: 999 !important;
+  position: relative;
+}
